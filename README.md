@@ -4,7 +4,7 @@ The approch is more object oriented so there are many funtions and classes are c
 
 These are the controls...  
 
-JUMP: up arraow key  
-MOVE LEFT: left arraow key  
-MOVE RIGHT: right arraow key  
+JUMP: up arrow key  
+MOVE LEFT: left arrow key  
+MOVE RIGHT: right arrow key  
 SHOOT: space key  
